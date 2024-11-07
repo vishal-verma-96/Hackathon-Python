@@ -12,8 +12,7 @@ These programs provide examples of Python's versatility in solving mathematical 
 ## Tools and Technologies Used 
 
 1. Programming Language:
-- Python 3.x
-- Widely used for its simplicity and versatility.
+- Python 3
 2. Key Concepts:
 - Loops: for and while loops are used for iterating over sequences and conditions.
 - Conditionals: if-else statements determine logical branches.
