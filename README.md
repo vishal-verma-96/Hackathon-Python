@@ -1,7 +1,7 @@
 # Pattern Printing, Number Analysis, and Inventory Management in Python
 
 ## Introduction
-This repository contains a collection of Python programs designed to demonstrate a variety of concepts, including:
+This repository contains the hackathon python project by skill academy, which demonstrate a variety of concepts, including:
 
 - Pattern generation.
 - Number analysis using user input.
