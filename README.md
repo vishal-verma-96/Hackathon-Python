@@ -29,7 +29,3 @@ b) Modular and reusable design.
 5.Formatting:
 - f-strings: Used for neatly formatting output.
 - Tabular Display: Inventory details are formatted for better readability.
-
-## Conclusion:
-
-This project showcases Python's capabilities across different problem domains, from simple loops to complex inventory management systems. The combination of mathematical logic, user interaction, and OOP demonstrates Python’s strength as a beginner-friendly yet powerful language for both learning and professional tasks.
